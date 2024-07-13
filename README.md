@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Employye-Performance-Analysis
-=======
 # Employee Performance Analysis
 ## INX Future Inc.
 
